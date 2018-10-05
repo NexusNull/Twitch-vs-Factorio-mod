@@ -1,0 +1,11 @@
+{
+  "name": "twitch_vs_nexus",
+  "version": "1.0.2",
+  "title": "Twitch Vs Nexus",
+  "author": "NexusNull",
+  "description": "Does something you would not expect to be possible",
+  "factorio_version": "0.16",
+  "dependencies": ["base >= 0.16.5"],
+  "contact": "somebody who is me ",
+  "homepage": "nobody "
+}
